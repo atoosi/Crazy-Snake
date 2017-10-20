@@ -1,0 +1,143 @@
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Snake.dll
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Snake.pdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Snake.Snake.apk
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Snake.Snake-Signed.apk
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\Snake.dll
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\Snake.pdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\bin\Snake.Snake.apk
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable\greenstar.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable\redstar.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable\yellowstar.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\layout\snake_layout.xml
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\values\attrs.xml
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\values\strings.xml
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable-hdpi\icon.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable-ldpi\icon.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable-mdpi\icon.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable-xhdpi\icon.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\R.cs.flag
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\uploadflags.txt
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Snake.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Java.Interop.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\Mono.Android.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\mscorlib.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.Core.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.Net.Http.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.Xml.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\bin\Debug\System.Xml.Linq.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\Snake.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.Core.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\D Drive\source code\Microsoft Dynamic CRM Android developing\Xamrin projects\monodroid-samples-master\monodroid-samples-master\Snake\obj\Debug\Snake.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Snake.dll
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Snake.pdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Snake.Snake.apk
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Snake.Snake-Signed.apk
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\Snake.dll
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\Snake.pdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\bin\Snake.Snake.apk
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable\greenstar.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable\redstar.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable\yellowstar.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\values\attrs.xml
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\values\strings.xml
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\R.cs.flag
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\uploadflags.txt
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Java.Interop.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Mono.Android.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\mscorlib.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\Snake.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.Core.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.Xml.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\Snake.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\layout\snake.xml
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable\crazysnake.jpg
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\layout\main.xml
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\atoosi.QUESTINC\Desktop\google\Snake\obj\Debug\Snake.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Snake.dll
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Snake.pdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Snake.Snake.apk
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Snake.Snake-Signed.apk
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\Snake.dll
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\Snake.pdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\bin\Snake.Snake.apk
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable\greenstar.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable\redstar.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable\yellowstar.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\layout\snake.xml
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\values\attrs.xml
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\values\strings.xml
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable-hdpi\icon.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable-mdpi\icon.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable\crazysnake.jpg
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\layout\main.xml
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\res\drawable\buttonsignupstyle.xml
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\R.cs.flag
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\uploadflags.txt
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Java.Interop.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Mono.Android.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\mscorlib.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Snake.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.Core.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.Net.Http.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.Xml.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\Snake.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\obj\Debug\Snake.dll.mdb
+D:\Presentation\Android\crazy snake\crazy snake\Snake\bin\Debug\Snake.dll.mdb

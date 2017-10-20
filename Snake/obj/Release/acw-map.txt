@@ -1,0 +1,20 @@
+Mono.Samples.Snake.RefreshHandler, Snake;md5e3d27aebe0341436cacfc9ef3aad0976.RefreshHandler
+Mono.Samples.Snake.RefreshHandler, Snake, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e3d27aebe0341436cacfc9ef3aad0976.RefreshHandler
+Mono.Samples.Snake.RefreshHandler;md5e3d27aebe0341436cacfc9ef3aad0976.RefreshHandler
+mono.samples.snake.RefreshHandler;md5e3d27aebe0341436cacfc9ef3aad0976.RefreshHandler
+Mono.Samples.Snake.MainActivity, Snake;md5e3d27aebe0341436cacfc9ef3aad0976.MainActivity
+Mono.Samples.Snake.MainActivity, Snake, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e3d27aebe0341436cacfc9ef3aad0976.MainActivity
+Mono.Samples.Snake.MainActivity;md5e3d27aebe0341436cacfc9ef3aad0976.MainActivity
+mono.samples.snake.MainActivity;md5e3d27aebe0341436cacfc9ef3aad0976.MainActivity
+Mono.Samples.Snake.SnakeActivity, Snake;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeActivity
+Mono.Samples.Snake.SnakeActivity, Snake, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeActivity
+Mono.Samples.Snake.SnakeActivity;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeActivity
+mono.samples.snake.SnakeActivity;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeActivity
+Mono.Samples.Snake.SnakeView, Snake;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeView
+Mono.Samples.Snake.SnakeView, Snake, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeView
+Mono.Samples.Snake.SnakeView;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeView
+mono.samples.snake.SnakeView;md5e3d27aebe0341436cacfc9ef3aad0976.SnakeView
+Mono.Samples.Snake.TileView, Snake;md5e3d27aebe0341436cacfc9ef3aad0976.TileView
+Mono.Samples.Snake.TileView, Snake, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e3d27aebe0341436cacfc9ef3aad0976.TileView
+Mono.Samples.Snake.TileView;md5e3d27aebe0341436cacfc9ef3aad0976.TileView
+mono.samples.snake.TileView;md5e3d27aebe0341436cacfc9ef3aad0976.TileView
